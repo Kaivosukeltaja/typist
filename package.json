@@ -9,7 +9,7 @@
   "author": "Filype Pereira <pereira.filype@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "angular": "^1.5.7",
+    "angular": "^1.7.4",
     "angular-resource": "^1.5.7",
     "angular-route": "^1.5.7",
     "lodash": "^4.13.1"
